@@ -1,0 +1,5 @@
+Smilies!
+Nick Lange
+
+Simply source smiley.sh into your .bashrc file (or whichever file controls your shell.)
+Try calling the function 'smiley' next time in your prompt for a surprise :)
